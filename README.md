@@ -14,11 +14,17 @@ The major objectives of the proposed system include :
 •	To develop a web application to display the predicted prices.
 
 
-## Front-end: HTML,CSS,JAVASCRIPT,BOOTSTRAP
+## Front-end: 
 
-## Framework: PYTHON FLASK
+HTML,CSS,JAVASCRIPT,BOOTSTRAP
 
-## Backend: DECISION TREE REGRESSOR A MACHINE LEARNING ALGORITHM FOR PREDICTING THE CROP PRICES.
+## Framework: 
+
+PYTHON FLASK
+
+## Backend: 
+
+DECISION TREE REGRESSOR A MACHINE LEARNING ALGORITHM FOR PREDICTING THE CROP PRICES.
 
 ## SCREENSHOTS
 
