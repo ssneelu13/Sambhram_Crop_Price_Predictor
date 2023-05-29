@@ -2,11 +2,17 @@
 
 The central focus of the project is to predict crop price based on the previous trends in   weather, yield and price. In agri-based country like India, predicting crop yield and price can aid a lot of people whose sole survival is dependent on the crop that they plan to grow.
 The major objectives of the proposed system include :
+
 •	To collect historical crop prices and weather related data.
+
 •	To perform data pre-processing on the gathered data.
+
 •	To analyze the trends in the datasets. 
+
 •	To build a predictive model using Decision Tree Regressor Algorithm.
+
 •	To develop a web application to display the predicted prices.
+
 
 ## Front-end: HTML,CSS,JAVASCRIPT,BOOTSTRAP
 
