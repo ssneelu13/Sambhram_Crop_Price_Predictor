@@ -22,32 +22,42 @@ HOME PAGE OF THE WEB APPLICATION
 
 
 THE LIST OF TOP GAINERS
+
 ![image](https://github.com/ssneelu13/Sambhram_Crop_Price_Predictor/assets/97376269/f6a8b27c-a7b5-4aab-abb9-ac492bfeb842)
 
 THE LIST OF TOP LOOSERS
+
 ![image](https://github.com/ssneelu13/Sambhram_Crop_Price_Predictor/assets/97376269/22d81ba0-ab8e-43ec-80d9-6df6d27641c9)
 
 BRIEF INFORMATION ON MAIZE CROP
+
 ![image](https://github.com/ssneelu13/Sambhram_Crop_Price_Predictor/assets/97376269/1991ddeb-28d2-4286-8a41-48e0453a9b55)
 
 MAIZE CROP’S 12 MONTHS PREDICTION
+
 ![image](https://github.com/ssneelu13/Sambhram_Crop_Price_Predictor/assets/97376269/1a7d4809-7101-465f-865f-4633e393740d)
 
 BRIEF INFORMATION ON RAPE CROP
+
 ![image](https://github.com/ssneelu13/Sambhram_Crop_Price_Predictor/assets/97376269/36289343-826e-481d-9957-a2375f352898)
 
 RAPE CROP’S 12 MONTHS PREDICTION
+
 ![image](https://github.com/ssneelu13/Sambhram_Crop_Price_Predictor/assets/97376269/766985fd-e32f-407f-9991-e1b19c5bea85)
 
  BRIEF INFORMATION ON WHEAT CROP
+ 
  ![image](https://github.com/ssneelu13/Sambhram_Crop_Price_Predictor/assets/97376269/623840a2-1aae-4d27-b4e9-9f7c55b2ae0d)
 
 WHEAT CROP’S 12 MONTHS FORECAST
+
 ![image](https://github.com/ssneelu13/Sambhram_Crop_Price_Predictor/assets/97376269/4e7f9fb0-7ccb-440f-a34e-712c677b33f1)
 
 BRIEF INFORMATION ON COPRA CROP
+
 ![image](https://github.com/ssneelu13/Sambhram_Crop_Price_Predictor/assets/97376269/7a510eaa-734d-4da3-adfd-59fa66ce095b)
 
 COPRA CROP’S 12 MONTHS FORECAST
+
 ![image](https://github.com/ssneelu13/Sambhram_Crop_Price_Predictor/assets/97376269/34f31162-a4ae-4449-ab86-3d2a9bb466e3)
 
